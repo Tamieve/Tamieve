@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Tamires</h1>
-<h3 align="center">Uma aprendiz desenvolvedora beck-end apaixonada pela programação</h3>
+<h3 align="center">Uma aprendiz desenvolvedora backend apaixonada pela programação</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamieve&label=Profile%20views&color=0e75b6&style=flat" alt="tamieve" /> </p> <p align="left"
 
